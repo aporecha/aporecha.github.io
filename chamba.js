@@ -1,3 +1,3 @@
 function alinaButton() {
-  document.getElementById("demo") = "Hi ALINA!";
+  document.getElementById("demo").innerHTML = "Hi ALINA!";
 }
