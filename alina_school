@@ -1,0 +1,48 @@
+<!-- DOCTYPE declaration at top, html and body tags -->
+<!DOCTYPE html>
+
+<!-- HTML elements - start tag, some content, end tag, language attribute to assist search engines-->
+<html lang="en-US">
+<head>
+<title>Kids School Stuff</title>
+<style>  
+  <link rel="stylesheet" href="bamba.css">
+</style>
+<script type="text/javascript" src="/aporecha.github.io/chamba.js"></script>
+</head>
+<body>
+  
+
+<!-- headings - h1 through h6, style -->
+<h1>Common</h1>
+  <div class="a"> 
+    <p>
+  <h2> <a href="https://www.oldbridgeadmin.org/o/rves" target="_blank">Voorhees School Main Page</a> </h2>
+  <h2> <a href="https://teams.microsoft.com/" target="_blank"> Microsoft Teams - daily attendance and classes </a> </h2>
+  <h2> <a href="http://www.ixl.com/signin/obps" target="_blank">IXL</a> </h2>
+  <h2> <a href="https://apps.explorelearning.com/account/reflex/login/student" target="_blank">Reflex</a> </h2>
+
+    </p>
+  </div>
+ 
+
+<br>
+      <button onclick="alinaButton()">Click me, Alina</button>
+      <p id="demo"></p>
+        <p><img src="alina_unicorn.jpg" alt="Unicorn" style="float:left;width:75px;height:75px;">
+    <h3> <a href="https://www.oldbridgeadmin.org/o/obtps/page/envisionmath-2-0-new-elementary-math-program" target="_blank">enVision Math</a> </h3>
+    <h3> <a href="https://www.quavered.com/log-in/" target="_blank">Music - Quavered </a> </h3>
+  
+          <a href="https://kids.sandiegozoo.org/animals/reindeer" target="_blank">
+          <p><img src="alina_rudolph.jpg" alt="Reindeer at the zoo" style="float:left;width:75px;height:75px;">
+         </a>
+            
+    <h3> <a href="https://game.kodable.com/class/mrsscott" target="_blank">Coding with Kodable</a> </h3>
+            
+        <a href="https://www.scienceforkidsclub.com/owl-facts.html" target="_blank">
+            <img src="alina_owl.jpg" alt="Owl Facts" style="float:left;width:75px;height:75px;">
+        </a>                                                   
+
+
+</html>
+
